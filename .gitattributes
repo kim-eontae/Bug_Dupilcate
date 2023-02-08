@@ -1,0 +1,7 @@
+mozilla_firefox.csv filter=lfs diff=lfs merge=lfs -text
+mozilla_thunderbird.csv filter=lfs diff=lfs merge=lfs -text
+apache.csv filter=lfs diff=lfs merge=lfs -text
+eclipse_jdt.csv filter=lfs diff=lfs merge=lfs -text
+eclipse_platform.csv filter=lfs diff=lfs merge=lfs -text
+kde.csv filter=lfs diff=lfs merge=lfs -text
+mozilla_core.csv filter=lfs diff=lfs merge=lfs -text
